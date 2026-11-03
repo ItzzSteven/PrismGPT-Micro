@@ -1,2 +1,2 @@
 # PrismGPT-Micro
-bombastic ai fr fr
+AI made from pure python no libs
